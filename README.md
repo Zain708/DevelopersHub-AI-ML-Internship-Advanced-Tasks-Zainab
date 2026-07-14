@@ -25,7 +25,7 @@ To fine-tune a pre-trained transformer model (`bert-base-uncased`) to classify n
 *   **Deployment:** The Gradio web app successfully processed live inputs, demonstrating the viability of lightweight model deployment for NLP classification tasks[cite: 1].
 
 ### Live Gradio Deployment Screenshot:
-<img width="1773" height="723" alt="image" src="https://github.com/user-attachments/assets/cdd8f9c9-31dd-4adb-9e41-df7747402624" />
+<img width="512" height="209" alt="image" src="https://github.com/user-attachments/assets/d759ac71-67cf-4fea-a68c-ee21aa606e0b" />
 
 ---
 
@@ -44,7 +44,7 @@ To build a reusable, production-ready machine learning pipeline for predicting c
 *   **Production Readiness:** The entire workflow (imputation, preprocessing, and prediction) is encapsulated in the exported `customer_churn_pipeline.joblib` file, allowing seamless integration into any backend architecture[cite: 1].
 
 ### Pipeline Execution and Optimization Screenshot:
-<img width="1773" height="723" alt="image" src="https://github.com/user-attachments/assets/b20b31e0-e15a-4ccf-ab82-47c339469160" />
+<img width="512" height="142" alt="image" src="https://github.com/user-attachments/assets/1ce48861-eb33-4a99-b41c-144f94704b4f" />
 
 ---
 
@@ -63,10 +63,11 @@ To automatically tag free-text support tickets into specific categories using La
 *   **Business Impact:** This pipeline demonstrates how LLMs can instantly route unstructured customer queries, significantly reducing manual triage times[cite: 1].
 
 ### Zero-Shot Top 3 Output Screenshot:
-<img width="1773" height="723" alt="image" src="https://github.com/user-attachments/assets/d8733964-b777-44a0-8040-34919b142f79" />
+<img width="512" height="312" alt="image" src="https://github.com/user-attachments/assets/d58f447b-bff8-4389-9748-5a4bec1d8f9e" />
 
 ### Few-Shot Output Screenshot:
-<img width="1773" height="723" alt="image" src="https://github.com/user-attachments/assets/003be5f3-8771-43d0-bd45-a2fc0202b49f" />
+<img width="512" height="137" alt="image" src="https://github.com/user-attachments/assets/35d0d1bc-2b60-49a9-9a61-265f42d93553" />
+
 
 
 ---
