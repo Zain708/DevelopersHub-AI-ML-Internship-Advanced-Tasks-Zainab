@@ -24,8 +24,8 @@ To fine-tune a pre-trained transformer model (`bert-base-uncased`) to classify n
 *   **Performance:** The model achieved an impressive **90.45% Accuracy** and a **90.55% Macro F1-score** after just one epoch of training[cite: 1].
 *   **Deployment:** The Gradio web app successfully processed live inputs, demonstrating the viability of lightweight model deployment for NLP classification tasks[cite: 1].
 
-### Pipeline Execution and Optimization Screenshot:
-<img width="512" height="209" alt="image" src="https://github.com/user-attachments/assets/cdd8f9c9-31dd-4adb-9e41-df7747402624" />
+### Live Gradio Deployment Screenshot:
+<img width="1773" height="723" alt="image" src="https://github.com/user-attachments/assets/cdd8f9c9-31dd-4adb-9e41-df7747402624" />
 
 ---
 
@@ -43,8 +43,8 @@ To build a reusable, production-ready machine learning pipeline for predicting c
 *   **Optimization:** `GridSearchCV` successfully improved the Random Forest model's performance (identifying `max_depth: 10`, `min_samples_split: 5`, `n_estimators: 100`)[cite: 1]. 
 *   **Production Readiness:** The entire workflow (imputation, preprocessing, and prediction) is encapsulated in the exported `customer_churn_pipeline.joblib` file, allowing seamless integration into any backend architecture[cite: 1].
 
-### Live Gradio Deployment Screenshot:
-<img width="1773" height="723" alt="image" src="https://github.com/user-attachments/assets/eb38ea62-f108-4019-9cd8-77cf2842e109" />
+### Pipeline Execution and Optimization Screenshot:
+<img width="1773" height="723" alt="image" src="https://github.com/user-attachments/assets/b20b31e0-e15a-4ccf-ab82-47c339469160" />
 
 ---
 
@@ -63,10 +63,10 @@ To automatically tag free-text support tickets into specific categories using La
 *   **Business Impact:** This pipeline demonstrates how LLMs can instantly route unstructured customer queries, significantly reducing manual triage times[cite: 1].
 
 ### Zero-Shot Top 3 Output Screenshot:
-<img width="512" height="312" alt="image" src="https://github.com/user-attachments/assets/d8733964-b777-44a0-8040-34919b142f79" />
+<img width="1773" height="723" alt="image" src="https://github.com/user-attachments/assets/d8733964-b777-44a0-8040-34919b142f79" />
 
 ### Few-Shot Output Screenshot:
-<img width="512" height="137" alt="image" src="https://github.com/user-attachments/assets/003be5f3-8771-43d0-bd45-a2fc0202b49f" />
+<img width="1773" height="723" alt="image" src="https://github.com/user-attachments/assets/003be5f3-8771-43d0-bd45-a2fc0202b49f" />
 
 
 ---
