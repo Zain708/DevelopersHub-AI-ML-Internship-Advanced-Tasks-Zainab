@@ -71,6 +71,3 @@ To automatically tag free-text support tickets into specific categories using La
 
 
 ---
-
-### How to Evaluate
-Navigate to each task's respective folder to view the Jupyter Notebook (`.ipynb`) containing the fully commented code, visualizations, and executed outputs[cite: 1].
